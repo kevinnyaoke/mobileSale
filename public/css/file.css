@@ -1,0 +1,19 @@
+
+body{
+    font-size: 12px;
+}
+.table{
+    font-size: 12px;
+    color: black;
+}
+.table-responsive{
+    height: 520px;
+    overflow: scroll;
+}
+.form-control{
+    height: 30px;
+}
+/*.body-home{*/
+/*background-image:url("../images/pic1.jpg");*/
+
+/*}*/
